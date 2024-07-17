@@ -19,12 +19,6 @@ No PHP Frameworks used.
 
 *It comes with easy users guide and developer documentation.*
 
-## Donate
-<p>If this project help you reduce time to develop, you can give me a cup of coffee to continue its development. Thank you! :)</p>
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=GD32E7M9SJ8V4)
-
-<p><b>BTC Address:</b> 3FmdTVWCApEcHT6wmrSCFkUSqaowsaqS9Y</p>
 
 ### Translations
 
